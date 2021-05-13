@@ -1,0 +1,1 @@
+# Hacker-rank-SQL-solutions
